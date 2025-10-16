@@ -1,35 +1,74 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Autonomous Wheelchair-Mounted Robotic Arm</title>
-</head>
-<body>
-  <h1>Autonomous Wheelchair-Mounted Robotic Arm for People with Mobility Impairments</h1>
+<div align="center">
+  <img src="https://i.gifer.com/4d3O.gif" alt="Robotic Arm Animation" width="30%" />
+</div>
 
-  <h2>Project Overview</h2>
-  <p>
-    The project aims to develop an autonomous wheelchair integrated with a robotic arm designed to assist individuals with mobility impairments and elderly users. The system combines smart navigation, voice command control, and object interaction to enhance user independence and improve their quality of life. By enabling self-directed movement and simple task execution, the project reduces dependency on caregivers and promotes a safer, more comfortable daily experience.
-  </p>
+---
 
-  <h2>Objectives</h2>
-  <ul>
-    <li>Enhance the independence of people with mobility limitations through a self-driving wheelchair system.</li>
-    <li>Integrate a robotic arm capable of assisting users with basic daily activities such as grasping, reaching, or interacting with objects.</li>
-    <li>Provide intuitive and accessible control using voice commands for ease of use.</li>
-    <li>Ensure safe navigation in indoor environments through obstacle detection and avoidance.</li>
-    <li>Promote user comfort, safety, and confidence in performing routine tasks.</li>
-  </ul>
+# ♿ Autonomous Wheelchair-Mounted Robotic Arm (AWRA)
 
-  <h2>Methodology</h2>
-  <p>
-    The project is structured into several key stages, beginning with a comprehensive study of user needs and technical requirements. The design phase involves creating a suitable mechanical structure for both the wheelchair and robotic arm, ensuring stability, functionality, and ergonomic considerations. Following the design, control systems are developed to manage motion, navigation, and task execution with precision and reliability. The system will also incorporate software modules for intelligent decision-making and responsive interaction with the environment.
-  </p>
+An intelligent assistive system designed to empower individuals with mobility impairments and the elderly.  
+It integrates **autonomous navigation**, **voice-controlled interaction**, and a **multi-axis robotic arm** to help users move and perform daily tasks independently.
 
-  <h2>Future Vision</h2>
-  <p>
-    This project serves as a foundation for developing advanced assistive technologies that empower individuals with disabilities. Future versions could expand to include smart healthcare applications, remote monitoring, and enhanced AI-based interaction systems to further improve autonomy and accessibility.
-  </p>
-</body>
-</html>
+---
+
+## 🎯 Project Goals
+- Enable **autonomous movement** of a wheelchair in indoor environments.  
+- Provide **robotic assistance** for simple daily tasks like grabbing, lifting, or reaching objects.  
+- Enhance **user independence** and reduce reliance on external caregivers.  
+- Ensure **safe, smooth navigation** with obstacle detection and path planning.  
+- Build a foundation for **future smart healthcare applications**.
+
+---
+
+## 🧩 System Overview
+The project combines mechanical, electrical, and software subsystems into one integrated platform:
+- **Mechanical Design:** Lightweight, stable wheelchair chassis with a mounted robotic arm.
+- **Embedded Control:** Microcontrollers manage sensor data and motor actuation.
+- **Software Intelligence:** ROS2 for communication, navigation, and motion planning.
+- **User Interface:** Voice command recognition for intuitive operation.
+
+---
+
+## 🧠 Methodology
+1. **Research & Analysis:** Understanding user needs and defining system requirements.  
+2. **Mechanical Design:** Modeling wheelchair and robotic arm in SolidWorks; verifying loads and motion range.  
+3. **Control & Programming:** Implementing motion control, navigation, and voice recognition logic.  
+4. **Integration & Testing:** Combining all modules, simulation in Gazebo, and real-world validation.
+
+---
+
+## 🧰 Technologies & Tools
+- **Languages:** C++, Python  
+- **Frameworks:** ROS2, OpenCV, TensorFlow  
+- **Simulation:** Gazebo, RViz  
+- **Microcontrollers:** ESP32, Raspberry Pi  
+- **Design:** SolidWorks, ANSYS  
+
+---
+
+## 👥 Team AWRA Robotics
+| Role | Member |
+|------|---------|
+| Project Lead | **Boghdady Ahmed** |
+| Mechanical Design | **[Add Member Name]** |
+| Control Systems | **[Add Member Name]** |
+| Embedded Programming | **[Add Member Name]** |
+| Software Integration | **[Add Member Name]** |
+
+---
+
+## 📈 Future Vision
+We aim to evolve AWRA into a fully intelligent assistive platform for healthcare environments —  
+integrating smart monitoring, adaptive AI, and IoT connectivity to improve independence and care quality.
+
+---
+
+## 🌐 Connect
+- 💼 **LinkedIn:** [Boghdady Ahmed](https://www.linkedin.com/in/boghdady-ahmed-b945b0275)  
+- 📧 **Email:** [awra.robotic@gmail.com](mailto:awra.robotic@gmail.com)
+
+---
+
+<div align="center">
+  ⚡ _"Empowering independence through intelligent robotics."_ ⚡  
+</div>
